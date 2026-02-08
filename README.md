@@ -71,6 +71,3 @@ All experiments and analysis are contained in a single Jupyter notebook.
 
 ---
 
-## Repository Structure
-
-# object-detection-remote-sensing
