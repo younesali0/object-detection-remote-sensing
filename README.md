@@ -121,26 +121,3 @@ The NWPU VHR-10 dataset is commonly used to evaluate object detection models und
 **Environment**
 - Developed primarily in **Google Colab**  
   (can be adapted to local execution)
-
----
-
-## Configuration Notes
-Dataset paths are defined directly in the notebook
-
-Absolute paths (local / Colab) should be updated before execution
-
-No credentials or private data are included
-
-
-
-## Notes & Limitations
-This project is academic and research-oriented
-
-Not intended as a production-ready pipeline
-
-Focuses on model behavior, evaluation, and experimentation
-
-Code is provided for educational and demonstration purposes
-
-
-
