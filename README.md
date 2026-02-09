@@ -127,29 +127,6 @@ The NWPU VHR-10 dataset is commonly used to evaluate object detection models und
 
 ---
 
-## Repository Structure
-
-.
-├── object_detection_faster_rcnn.ipynb # Main notebook (training + evaluation)
-└── README.md
-
-
----
-
-## How to Run
-
-1. Clone the repository
-2. Open the notebook:
-   ```bash
-   jupyter notebook object_detection_faster_rcnn.ipynb
-Update dataset paths in the configuration cells
-
-Run the notebook cells sequentially
-
-Some cells related to Google Drive mounting are optional and can be skipped for local execution.
-
----
-
 ## Configuration Notes
 Dataset paths are defined directly in the notebook
 
