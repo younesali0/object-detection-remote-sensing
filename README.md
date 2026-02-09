@@ -145,11 +145,5 @@ Focuses on model behavior, evaluation, and experimentation
 
 Code is provided for educational and demonstration purposes
 
----
 
-## References
-A. S. Mahmoud, A. A. Abdelwahab, and M. A. Elattar,
-“Object Detection Using Adaptive Mask R-CNN in Optical Remote Sensing Images,”
-International Journal of Intelligent Engineering and Systems,
-vol. 13, no. 1, pp. 24–35, 2020.
 
