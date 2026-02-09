@@ -4,9 +4,6 @@
 This repository contains a **notebook-based implementation** for multi-class object detection in optical remote sensing images.  
 The project focuses on training and evaluating a **Faster R-CNN (ResNet-50 FPN)** model using **transfer learning**, **data augmentation**, and **detailed performance analysis**.
 
-> 📌 Repository format: **one Jupyter notebook + README**  
-
-
 ---
 
 ## Overview
