@@ -148,14 +148,18 @@ Run the notebook cells sequentially
 
 Some cells related to Google Drive mounting are optional and can be skipped for local execution.
 
-Configuration Notes
+---
+
+## Configuration Notes
 Dataset paths are defined directly in the notebook
 
 Absolute paths (local / Colab) should be updated before execution
 
 No credentials or private data are included
 
-Notes & Limitations
+---
+
+## Notes & Limitations
 This project is academic and research-oriented
 
 Not intended as a production-ready pipeline
@@ -164,7 +168,9 @@ Focuses on model behavior, evaluation, and experimentation
 
 Code is provided for educational and demonstration purposes
 
-References
+---
+
+## References
 A. S. Mahmoud, A. A. Abdelwahab, and M. A. Elattar,
 “Object Detection Using Adaptive Mask R-CNN in Optical Remote Sensing Images,”
 International Journal of Intelligent Engineering and Systems,
