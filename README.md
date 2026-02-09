@@ -5,7 +5,7 @@ This repository contains a **notebook-based implementation** for multi-class obj
 The project focuses on training and evaluating a **Faster R-CNN (ResNet-50 FPN)** model using **transfer learning**, **data augmentation**, and **detailed performance analysis**.
 
 > 📌 Repository format: **one Jupyter notebook + README**  
-> (a common and accepted structure for AI / ML research projects)
+
 
 ---
 
@@ -64,7 +64,7 @@ This project explores a practical deep-learning pipeline for addressing these ch
 
 ## Dataset
 
-The experiments in this project are conducted using the **NWPU VHR-10 (Very High Resolution)** remote sensing dataset, a widely adopted benchmark for object detection in optical satellite imagery.
+The experiments in this project are conducted using the **NWPU VHR-10 (Very High Resolution)** remote sensing dataset.
 
 **Dataset characteristics:**
 - **Source**: Cropped from Google Earth imagery
@@ -96,7 +96,7 @@ The experiments in this project are conducted using the **NWPU VHR-10 (Very High
 
 The NWPU VHR-10 dataset is commonly used to evaluate object detection models under realistic remote sensing conditions, using metrics such as **Average Precision (AP)**, **Intersection over Union (IoU)**, and **Precision–Recall Curves (PRC)**.
 
-> ⚠️ The dataset is **not included** in this repository due to licensing and distribution restrictions.
+
 
 ---
 
